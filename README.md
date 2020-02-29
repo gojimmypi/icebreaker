@@ -37,7 +37,7 @@ we need to be compatible with their firmware upload tools.
 
 * [FT2232H](http://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT2232H.pdf) interface (microUSB plug)
   * programming compatible with iCEstick and HX8K board
-    * works with [Dimond Programmer](http://www.latticesemi.com/programmer) and
+    * works with [Diamond Programmer](http://www.latticesemi.com/programmer) and
       [iceprog](https://github.com/cliffordwolf/icestorm/tree/master/iceprog)
   * serial port compatible with iCEstick and HX8K breakout board
   * 12 MHz XTAL oscillator (shared with FPGA)
